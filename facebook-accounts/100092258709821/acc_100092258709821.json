@@ -39,7 +39,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1683145802,
+			"expirationDate": 1683146022,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -91,7 +91,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1690316902.833356,
+			"expirationDate": 1690317156.623869,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -100,7 +100,20 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0jMU74I4gXQoGj79s.AWWDPFcp3kzTEiGeeOfu7PE05k4.BkSYWu.R-.AAA.0.0.BkSYlm.AWVDKSiNmkc"
+			"value": "0jMU74I4gXQoGj79s.AWWZDR0nCDDOWVlZ1kv1aX6XnRs.BkSYWu.R-.AAA.0.0.BkSYpk.AWUNCiK8To8"
+		},
+		{
+			"domain": ".web.facebook.com",
+			"expirationDate": 1717101228.417972,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "m_ls",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "%7B%22c%22%3A%7B%221%22%3A%22HCwAABYSFvb43vQJEwQW-sSzuJHCLQA%22%2C%222%22%3A%22GSwVQBxMAAAWABbMpczEDBYAABV-HEwAABYAFu6lzMQMFgAAFigA%22%7D%2C%22d%22%3A%22797f5237-115c-4579-a41d-a3080b8b1a97%22%2C%22s%22%3A%221%22%2C%22u%22%3A%22hjo5jl%22%7D"
 		},
 		{
 			"domain": ".facebook.com",
@@ -112,21 +125,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1682540982367%2C%22v%22%3A1%7D"
-		},
-		{
-			"domain": ".web.facebook.com",
-			"expirationDate": 1717100992.054519,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "m_ls",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "%7B%22c%22%3A%7B%221%22%3A%22HCwAABYKFvb43vQJEwQW-sSzuJHCLQA%22%2C%222%22%3A%22GSwVQBxMAAAWABbMpczEDBYAABV-HEwAABYAFu6lzMQMFgAAFigA%22%7D%2C%22d%22%3A%22797f5237-115c-4579-a41d-a3080b8b1a97%22%2C%22s%22%3A%220%22%2C%22u%22%3A%22qsb6sk%22%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1682541228614%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "26.04.2023 20:32 Registro-Farming"
+	"lastEventDate": "26.04.2023 20:35 Registro-Farming"
 }
