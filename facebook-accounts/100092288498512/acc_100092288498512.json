@@ -8,7 +8,7 @@
 	"amountFriends": "",
 	"screenname": "Eloá Lamberti",
 	"birthdate": "1995 April 10",
-	"country": "",
+	"country": "Brazil",
 	"isAvatarExists": false,
 	"cookie": [
 		{
@@ -65,7 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1714069552.184118,
+			"expirationDate": 1714140048.266141,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -78,7 +78,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1714069552.18417,
+			"expirationDate": 1683208843,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "929x932"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1714140048.266198,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -87,11 +100,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "21%3AURycmCGRxhPGRA%3A2%3A1682533556%3A-1%3A-1"
+			"value": "21%3AURycmCGRxhPGRA%3A2%3A1682533556%3A-1%3A-1%3A%3AAcUf_fxuwaDIRR0W8UPV548cfpOdpoSqqmXVYKoMkg"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1690310039.034946,
+			"expirationDate": 1690380719.923387,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -100,7 +113,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0eBb2GpbZrqBkEUCV.AWXJFPY5zJgRvuyhmOv9wT0lkXU.BkSWxh.jk.AAA.0.0.BkSW6X.AWV6YrGYBKo"
+			"value": "0xRmTQTkCnW8B8WHM.AWW-KuHPf05zuRmIizT3L2lJyIA.BkSoAQ.jk.AAA.0.0.BkSoKw.AWXOQg4i92A"
 		},
 		{
 			"domain": ".facebook.com",
@@ -112,21 +125,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1682534098174%2C%22v%22%3A1%7D"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1683138901,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "929x887"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1682604784179%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "27.04.2023 14:11 Farm1-3_by_scenum"
+	"lastEventDate": "27.04.2023 14:14 Farm1-3_by_scenum"
 }
