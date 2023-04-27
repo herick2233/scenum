@@ -8,7 +8,7 @@
 	"amountFriends": "",
 	"screenname": "Sophia Ferri",
 	"birthdate": "1997 April 2",
-	"country": "",
+	"country": "Maringá",
 	"isAvatarExists": false,
 	"cookie": [
 		{
@@ -39,19 +39,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1683146022,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "929x887"
-		},
-		{
-			"domain": ".facebook.com",
 			"expirationDate": 1683144867.998673,
 			"hostOnly": false,
 			"httpOnly": false,
@@ -65,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1714076054.998731,
+			"expirationDate": 1714149807.548513,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -78,7 +65,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1714076054.998745,
+			"expirationDate": 1683147008,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "929x887"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1714149807.548586,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -87,11 +87,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "39%3AbhvLcXiifEk6-g%3A2%3A1682540064%3A-1%3A-1"
+			"value": "39%3AbhvLcXiifEk6-g%3A2%3A1682540064%3A-1%3A-1%3A%3AAcUJJW6QmSqdQokLWk6-pGLZWIo02UlFGttMU2GWxg"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1690317156.623869,
+			"expirationDate": 1690389819.381469,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -100,11 +100,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0jMU74I4gXQoGj79s.AWWZDR0nCDDOWVlZ1kv1aX6XnRs.BkSYWu.R-.AAA.0.0.BkSYpk.AWUNCiK8To8"
+			"value": "0rm3XlzfQPeBvLRye.AWUuL6CGzo1YxXhgvP05-w5SipI.BkSqYv.R-.AAA.0.0.BkSqY7.AWVg7iMrMmI"
 		},
 		{
 			"domain": ".web.facebook.com",
-			"expirationDate": 1717101228.417972,
+			"expirationDate": 1717173891.702894,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "m_ls",
@@ -113,7 +113,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "%7B%22c%22%3A%7B%221%22%3A%22HCwAABYSFvb43vQJEwQW-sSzuJHCLQA%22%2C%222%22%3A%22GSwVQBxMAAAWABbMpczEDBYAABV-HEwAABYAFu6lzMQMFgAAFigA%22%7D%2C%22d%22%3A%22797f5237-115c-4579-a41d-a3080b8b1a97%22%2C%22s%22%3A%221%22%2C%22u%22%3A%22hjo5jl%22%7D"
+			"value": "%7B%22c%22%3A%7B%221%22%3A%22HCwAABYuFvb43vQJEwQW-sSzuJHCLQA%22%2C%222%22%3A%22GSwVQBxMAAAWABbMpczEDBYAABV-HEwAABYAFu6lzMQMFgAAFigA%22%7D%2C%22d%22%3A%22797f5237-115c-4579-a41d-a3080b8b1a97%22%2C%22s%22%3A%221%22%2C%22u%22%3A%22a1lmxw%22%7D"
 		},
 		{
 			"domain": ".facebook.com",
@@ -125,8 +125,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1682541228614%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1682613892896%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "27.04.2023 16:43 Farm1-3_by_scenum"
+	"lastEventDate": "27.04.2023 16:46 Farm1-3_by_scenum"
 }
