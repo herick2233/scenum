@@ -26,19 +26,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1683160809,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1920x924"
-		},
-		{
-			"domain": ".facebook.com",
 			"expirationDate": 1717115527.434694,
 			"hostOnly": false,
 			"httpOnly": true,
@@ -91,7 +78,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1690331909.477822,
+			"expirationDate": 1690332156.199797,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -100,7 +87,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0DTou1HSCnYZM0NK5.AWWXxI1cjSsxjTpmWSBNp4v4h4A.BkScKE.pS.AAA.0.0.BkScQA.AWUv70Sk9rY"
+			"value": "0DTou1HSCnYZM0NK5.AWWa9lAxn3ebvyVykrf5_f3HL24.BkScKE.pS.AAA.0.0.BkScT7.AWXdDVuoG98"
 		},
 		{
 			"domain": ".facebook.com",
@@ -112,8 +99,21 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1682555989191%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1682556229201%2C%22v%22%3A1%7D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1683161030,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1920x924"
 		}
 	],
-	"lastEventDate": "27.04.2023 00:42 Registro-Farming"
+	"lastEventDate": "27.04.2023 00:45 Registro-Farming"
 }
