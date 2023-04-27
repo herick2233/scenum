@@ -39,7 +39,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1683163884,
+			"expirationDate": 1683164615,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -91,7 +91,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1690335348.276673,
+			"expirationDate": 1690335730.425299,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -100,7 +100,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0HHdMVb3DAFTVbnAe.AWU2bEcYVq4dtodsU-k8b6ahYpM.BkSc0y.7I.AAA.0.0.BkSdFz.AWX3vSfHVJI"
+			"value": "0HHdMVb3DAFTVbnAe.AWUId1GOtkkjmOX4sYt54fVmQOY.BkSc0y.7I.AAA.0.0.BkSdLx.AWUJQGiAMaw"
 		},
 		{
 			"domain": ".facebook.com",
@@ -112,8 +112,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1682559549576%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1682559820899%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "27.04.2023 01:41 Registro-Farming"
+	"lastEventDate": "27.04.2023 01:46 Registro-Farming"
 }
